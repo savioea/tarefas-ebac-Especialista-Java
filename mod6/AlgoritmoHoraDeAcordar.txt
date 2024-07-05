@@ -1,0 +1,27 @@
+1  - Escuto meu alarme tocar
+2  - Abro meus olhos
+3  - Pego meu celular
+4  - Desligo o alarme
+5  - É fim de semana? Sim
+    1 - Volto a cochilar
+    2 - Acordo mais tarde
+6  - Não
+    1 - Levanto da cama
+    2 - Desligo o ventilador
+7  - Vou ao banheiro
+8  - Tiro meu aparelho noturno
+9  - Lavo o rosto
+10 - Vou a cozinha
+11 - Pego minha caneca
+12 - O café já está feito? Sim  
+    1 - Sirvo o café na caneca
+13 - Não
+    1 - Coloco Aguá na cafeteira
+    2 - Coloco pó de café na cafeteira
+    3 - Ligo a cafeteira
+    4 - Espero o café ficar pronto
+    5 - Sirvo o café na caneca
+13 - Abro a geladeira
+14 - pego o leite na geladeira
+15 - Sirvo o leite na caneca
+16 - Tomo meu café com leite 
