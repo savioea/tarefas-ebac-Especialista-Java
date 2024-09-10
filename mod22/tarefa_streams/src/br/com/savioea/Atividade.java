@@ -12,7 +12,7 @@ public class Atividade {
 
         // Mensagem no console pedindo que sejam fornecidos nomes e sexos
         System.out.println("Digite uma lista de nomes no modelo:");
-        System.out.println("[nome 1] [SEXO 1], [nome 2] [SEXO 2], [nome 3] [SEXO 3], ... [nome n] [SEXO n]");
+        System.out.println("[nome 1] - [SEXO 1], [nome 2] - [SEXO 2], [nome 3] - [SEXO 3], ... [nome n] - [SEXO n]");
 
         // leitorDoConsole.nextLine().split(","); Faz a leitura dos nomes, um split e uma conversão por meio de stream
         // de array para List
@@ -36,12 +36,12 @@ public class Atividade {
 
         Digite uma lista de nomes no modelo:
         [nome 1] [SEXO 1], [nome 2] [SEXO 2], [nome 3] [SEXO 3], ... [nome n] [SEXO n]
-        Sávio M, Letícia F, Sara F, Cynthia F, Arthur M, Mateus M, Paula F, Fabrício M
+        Sávio - M, Letícia - F, Sara - F, Cynthia - F, Arthur - M, Mateus - M, Paula - F, Fabrício - M
         Nomes do sexo Feminino:
-         Letícia F
-         Sara F
-         Cynthia F
-         Paula F
+         Letícia - F
+         Sara - F
+         Cynthia - F
+         Paula - F
          */
     }
 }
